@@ -14,10 +14,50 @@
 ### :loudspeaker: 과제 readme
 <br/> 
 
-* :pencil2: [1week](https://github.com/27thONSOPT-iOS/LeeSoYoung/blob/master/1week/Sopt27FirstAssignment/README.md) view 전환
+###  :one:차 과제
 
-* :pencil2: [2week](https://github.com/27thONSOPT-iOS/LeeSoYoung/blob/master/2week/Sopt27SecondAssignment/README.md) stackView 활용
+<br/> 
 
-* :pencil2: [3week](https://github.com/27thONSOPT-iOS/LeeSoYoung/blob/master/3week/Sopt27ThirdAssignment/README.md) collectionView 활용
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68267763/95684019-92bd3d00-0c29-11eb-826a-ae9839d1efb9.gif)
+<br/> 
 
-* :pencil2: [4week](https://github.com/27thONSOPT-iOS/LeeSoYoung/blob/master/4week/Sopt27FourthAssignment/README.md) tabBar / animate 활용
+#### view 전환
+
+<br/> 
+<br/> 
+
+###  :two:차 과제
+
+<br/> 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68267763/96892202-607ecb80-14c4-11eb-95f8-df1dcc404aef.gif)
+<br/> 
+
+#### stackView 활용
+
+<br/> 
+<br/> 
+
+###  :three:차 과제
+
+<br/> 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68267763/98205135-e8f87400-1f7a-11eb-9cff-c5d7e379e571.gif)
+
+<br/>
+
+#### collectionView 활용
+
+<br/> 
+<br/> 
+
+###  :four:차 과제
+
+<br/> 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68267763/98973099-a6283480-2556-11eb-81a2-4698c35e9fee.gif)
+
+<br/> 
+
+
+#### tabBar / animate 활용
